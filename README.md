@@ -1,5 +1,4 @@
 
-[![MasterHead](https://codequotient.com/blog/wp-content/uploads/2020/12/6-Reasons-Why-Having-a-Professional-Coder-Certification-Is-Crucial.jpg)
 <h1 align="center">Hi 👋, I'm Umutcan Günal</h1>
 <h3 align="center">Developer</h3>
 
