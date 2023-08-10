@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Umutcan Günal</h1>
 <h3 align="center">Developer</h3>
 
-- 📝 I regularly write articles on [umutgunal.com](umutgunal.com)
+- 📝 I regularly write articles on (umutgunal.com)
 
 - 📫 How to reach me **umutcangunal@hotmail.com**
 
