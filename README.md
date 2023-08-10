@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Umutcan Günal</h1>
-<h3 align="center">Developer/<a href="umutgunal.com"> Umutgunal.com </a> </h3> 
+<h3 align="center">Developer/<a href="umutgunal.com" target="blank"> Umutgunal.com </a> </h3> 
 
 
 
