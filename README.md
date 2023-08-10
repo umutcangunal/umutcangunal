@@ -1,4 +1,4 @@
-[![MasterHead]([http:ile istediginiz fotoğrafın linkini buraya yazın](https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47lk1aab7kxas6dm62yn8taj7sotxqwuxv7hpdrkse&ep=v1_gifs_search&rid=giphy.gif&ct=g))
+[![MasterHead](https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47lk1aab7kxas6dm62yn8taj7sotxqwuxv7hpdrkse&ep=v1_gifs_search&rid=giphy.gif&ct=g)
 <h1 align="center">Hi 👋, I'm Umutcan Günal</h1>
 <h3 align="center">Developer</h3>
 
