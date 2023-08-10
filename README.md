@@ -8,7 +8,6 @@
 
 </h3>
 
-- 📝 I regularly write articles on [umutgunal.com](umutgunal.com)
 
 - 📫 How to reach me **umutcangunal@hotmail.com**
 
