@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Umutcan Günal</h1>
-<h3 align="center">Developer</h3>
-<h3 align="center"> <a href="umutgunal.com" target="blank"> </h3>
+<h3 align="center">Developer <h3 align="center"> <a href="umutgunal.com" target="blank"> </h3> </h3>
+
 
 
 - 📫 How to reach me **umutcangunal@hotmail.com**
